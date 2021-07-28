@@ -1,6 +1,6 @@
 [Web API Controversy](https://webapicontroversy.com)
 
-**Work in progress, help is very appreciated**
+**Shut down** due to lack of time to maintain + a general lack of interest from others as well as coming across as controversial in itself, requiring more time to navigate and research. Thanks for the interest! / Pelle
 
 ## Building
 
